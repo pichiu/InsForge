@@ -71,7 +71,8 @@ npm run migrate:create
 | [`CODEBASE_MAP.md`](./CODEBASE_MAP.md) | 目錄地圖、「我想改 X 要看哪裡」速查表、模組依賴圖 |
 | [`ARCHITECTURE.md`](./ARCHITECTURE.md) | 系統架構、元件清單、通訊模式、關鍵設計決策 |
 | [`DATA_MODEL.md`](./DATA_MODEL.md) | 核心 entity、ER diagram、schema 摘要、migration 機制 |
-| [`API_SURFACE.md`](./API_SURFACE.md) | REST API 清單、認證模型、錯誤格式 |
+| [`API_SURFACE_part1.md`](./API_SURFACE_part1.md) | REST API 清單（1/2）：認證模型、錯誤格式、auth/database/storage/metadata |
+| [`API_SURFACE_part2.md`](./API_SURFACE_part2.md) | REST API 清單（2/2）：其餘 18 個 domain |
 | [`DEV_GUIDE.md`](./DEV_GUIDE.md) | 環境建置、開發 workflow、測試、除錯、貢獻流程 |
 | [`DISCOVERY_LOG.md`](./DISCOVERY_LOG.md) | 既有文件與程式碼的落差、TODO/FIXME 彙整、待解問題 |
 | [`TRACE_META.md`](./TRACE_META.md) | Trace metadata，供增量更新使用 |
